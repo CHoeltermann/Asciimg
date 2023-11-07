@@ -1,0 +1,19 @@
+---
+# A dictionary with optional arguments for the ascii art py
+output_path: .
+ascii_values:
+        - "@"
+        - "#"
+        - "S"
+        - "%"
+        - "?"
+        - "*"
+        - "+"
+        - ";"
+        - ":"
+        - ","
+        - "."
+        - " "
+scale_factor: 10
+...
+
